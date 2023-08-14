@@ -1,2 +1,2 @@
-# Devi
+# devi
 I am the devi
